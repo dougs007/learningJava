@@ -1,6 +1,15 @@
-# learningJava
+# Learning Java
 
-Seja bem vindo a documentação do meu Repositório sobre aprendizagem na linguagem de Programação Java,
-neste, conterá diversos exercícios práticos sobre java, anotações e links de referências dos estudos.
+Welcome to the docs about java. Here you'll find anottations by projects using java with spring boot too and other things related of java.
+
+
+# Anotattions by topic.
+
+
+## Java
+
+## Spring Boot
+
+
 
 
